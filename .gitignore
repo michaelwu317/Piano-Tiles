@@ -1,0 +1,5 @@
+.vscode/
+shell.nix
+flake.nix
+flake.lock
+__pycache__
